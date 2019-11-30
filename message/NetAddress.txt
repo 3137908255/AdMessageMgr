@@ -6,4 +6,3 @@ Name=linux公社=Address=https://www.linuxidc.com/
 Name=码云=Address=https://gitee.com/
 Name=菜鸟笔记=Address=http://www.runoob.com/
 Name=RT_Thread=Address=https://www.rt-thread.org/
-Name=htc=Address=https://www.htc.com/
